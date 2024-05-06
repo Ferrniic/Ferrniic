@@ -1,6 +1,6 @@
 - 🌙 Bom dia! Boa tarde ou Boa noite
 - Eu sou Ferrniic 🍷
-- Sou brasileiro e sem um pouco sobre inglês
+- Sou brasileiro e sei um pouco sobre inglês
 - Planejo futuramente aprender o básico de cada linguagem de programação 
 - Atualmente to aprendendo e entrando para a programação, começando com Python
 - Planejo dominar Python e quem sabe no futuro C#
